@@ -1,5 +1,15 @@
 ### Hi there 👋
+I am a full stack Software Engineer.
 
+I work on different types of applications : Cloud applications, Multiplatform desktop Applications, Database and Data Reporting.
+
+I am a certified Microsoft Cloud Developer
+
+Feel free to reach out to me for any questions or opportunities you may have and think that I can help.
+
+My personal website is www.us.asengo.info
+
+Thanks
 <!--
 **angoudjou/angoudjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
