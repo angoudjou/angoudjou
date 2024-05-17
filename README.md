@@ -1,11 +1,11 @@
 ### Hi there 👋
 I am a full stack Software Engineer.
 
-I work on different types of applications : Cloud applications, Multiplatform desktop Applications, Database and Data Reporting.
+I work on different type of applications : Cloud applications, Multiplatform desktop Applications, Database and Data Reporting.
 
 I am a certified Microsoft Cloud Developer
 
-Feel free to reach out to me for any questions or opportunities you may have and think that I can help.
+Feel free to reach out to me for any question or opportunity you may have and think that I can help.
 
 My personal website is www.us.asengo.info
 
